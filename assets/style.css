@@ -98,3 +98,10 @@ footer {
   .stats, .two-col, .featured, .project-grid, .skills { grid-template-columns: 1fr; }
   footer { margin: 0 20px; flex-direction: column; gap: 8px; }
 }
+
+.hero-cover {
+  width: 100%;
+  max-width: 900px;
+  border-radius: 12px;
+  margin-top: 2rem;
+}
